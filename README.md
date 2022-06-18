@@ -34,8 +34,8 @@ Follow the process described in the course to `eb init` a new application and `e
 ## Running 
 The following endpoint leads to the Elastic Beanstalk hosting:
 
-1. [The root URL](Udagramayomideproject1-env.eba-2uzrfper.us-east-1.elasticbeanstalk.com)
-2. [Image URL sample](Udagramayomideproject1-env.eba-2uzrfper.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://iskanchi.com/wp-content/uploads/2022/02/book-stuff.jpg)
+1. [The root URL](http://udagramayomideproject1-env.eba-2uzrfper.us-east-1.elasticbeanstalk.com/)
+2. [Image URL sample](http://udagramayomideproject1-env.eba-2uzrfper.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://iskanchi.com/wp-content/uploads/2022/02/book-stuff.jpg)
 
 
 ## Stand Out (Optional)
